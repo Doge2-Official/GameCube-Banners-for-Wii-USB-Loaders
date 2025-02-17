@@ -11,7 +11,7 @@ I've tried to stick to largely official art assets where possible to create a fe
 [![Preview3](https://img.youtube.com/vi/7ofPuJTJJ4A/0.jpg)](https://www.youtube.com/watch?v=7ofPuJTJJ4A)
 
 ## Installation
-1. Download the latest release here
+1. Download the latest release [here](https://github.com/LinkToTheAsh/GameCube-Banners-for-Wii-USB-Loaders/releases)
 1. Insert your SD card into you computer, and navigate to: "SD:/apps/usbloader_gx/cache_bnr". 
 2. Once your in this location copy your .bnr files for your region (currently only PAL and NTSC-U) to this folder. 
 3. If it asks you to overwrite an existing file just click yes. All thats going to do is replace replace the old banner with the new one.
